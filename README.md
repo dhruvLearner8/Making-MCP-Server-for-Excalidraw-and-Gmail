@@ -2,6 +2,9 @@
 
 An AI-powered agent built with the **Model Context Protocol (MCP)** that can solve math problems, draw shapes on **Excalidraw**, and send emails via **Gmail** -- all orchestrated by **Google Gemini 2.0 Flash**.
 
+# Demo
+
+https://drive.google.com/file/d/1euYWneZQ_PfEa9CHB0CtxwF8p01RJZ1b/view?usp=sharing
 ---
 
 ## Overview
