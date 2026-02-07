@@ -9,5 +9,15 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Credentials — NEVER commit
 token.json
-credentials.json 
+credentials.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
